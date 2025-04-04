@@ -37,4 +37,5 @@ if __name__ == "__main__":
     while True:
         print_time()
         time.sleep(1)  # Atualiza a hora a cada segundo
-        print("\033[H\033[J", end='')  # Limpa a tela antes de mostrar a hora novamente
+        print("\033[H\033[J", end='')  # Limpa a tela antes de mostrar a hora novamente 
+        # yoooooooooooooo nice code bro
